@@ -5,22 +5,22 @@ The purpose of the project is to analyze the 50 datasets consisting of written r
 
 ## Results
 ### Total Number of Reviews:
-	* Vine Reviews
+* Vine Reviews
 ![This is an image](https://github.com/gonzojc/Amazon_Vine_Analysis/blob/main/Resources/totalreviews.PNG)
-	* Non-Vine Reviews
+* Non-Vine Reviews
 ![This is an image]( https://github.com/gonzojc/Amazon_Vine_Analysis/blob/main/Resources/totalunpaidreviews.PNG)
 
 ### Total Number of 5-Star Reviews:
-	* Vine Reviews
+* Vine Reviews
 ![This is an image]( https://github.com/gonzojc/Amazon_Vine_Analysis/blob/main/Resources/5starreviews.png)
-	* Non-Vine Reviews
+* Non-Vine Reviews
 
 ![This is an image]( https://github.com/gonzojc/Amazon_Vine_Analysis/blob/main/Resources/unpaid5starreviews.png)
 
 ### Percentage of 5-Star Reviews
-	* Vine Reviews
+* Vine Reviews
 ![This is an image]( https://github.com/gonzojc/Amazon_Vine_Analysis/blob/main/Resources/5starreviewpercentage.png)
-	* Non-Vine Reviews
+* Non-Vine Reviews
 ![This is an image]( https://github.com/gonzojc/Amazon_Vine_Analysis/blob/main/Resources/unpaid5starreviewpercentages.PNG)
 
 ## Summary
